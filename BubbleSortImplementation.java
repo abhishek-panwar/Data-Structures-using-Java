@@ -1,4 +1,9 @@
 
+/*** 
+ * Bubble sort implementation
+ * @author Abhishek Panwar
+ *
+ */
 public class BubbleSortImplementation {
 	int[] array = { 1, 8, 4, 6, 9, 2, 4, 12, 15, 11, 18, 14, 16 };
 
